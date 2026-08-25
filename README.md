@@ -4,7 +4,9 @@
 
 ## 下载使用
 
-直接下载右侧 **Releases** 里的 `自动评论发布工具.exe`，双击打开即用。
+👉 [点此下载 AutoCommentTool.exe](https://github.com/bobnig14723jk/auto-comment-tool/releases/download/v1.0.0/AutoCommentTool.exe)
+
+下载后双击打开即用，无需安装 Python 或其他依赖。
 
 ## 功能特点
 
